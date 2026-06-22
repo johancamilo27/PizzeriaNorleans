@@ -657,6 +657,15 @@ html {
   flex: 1;
 }
 
+.combo-item-img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 10px;
+  flex-shrink: 0;
+  background: #f7f7f7;
+}
+
 .badge-popular {
   display: inline-block;
   background: #fff3cd;
