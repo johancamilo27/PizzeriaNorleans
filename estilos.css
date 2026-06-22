@@ -621,11 +621,7 @@ html {
   transition: transform 0.2s, box-shadow 0.2s;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
-.producto-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-  border-color: #EF131B;
-}
+
 
 .producto-img-placeholder {
   width: 100%;
